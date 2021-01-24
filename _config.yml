@@ -79,12 +79,13 @@ analytics:
 
 
 # Site Author
+# Center for Humans and Machines,
 author:
   name             : "Mengchen Dong"
   avatar           : "images/pupu.png"
   bio              : "Postdoctoral Research Fellow"
   location         : "Berlin, Germany"
-  employer         : "Center for Humans and Machines, Max Planck Institute for Human Development"
+  employer         : "Max Planck Institute for Human Development"
   pubmed           : ""
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=8QA_jo0AAAAJ"
   email            : "dong@mpib-berlin.mpg.de"
@@ -96,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           :
   google_plus      :
   keybase          :
   instagram        :

@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in School of Psychology, South China Normal University, China, June 2013 Excellent graduate honor (Top 1%; postgraduate recommendation)
+* M.S. in Department of Personality and Social Psychology, Faculty of Psychology, Beijing Normal University, China, June 2016
+* Ph.D in  Vrije Universiteit Amsterdam, the Netherlands, expected graduation September 2020
+     Dissertation: “Understanding moral hypocrisy: Behavior and social judgment”
+
+
 
 Work experience
 ======
@@ -22,19 +25,19 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Experimentation
+  * crowdsourcing
+  * lab study
+  * pre-registration
+  * Qualtrics
+* Statistics
+  * SPSS
+  * R
+
 
 Publications
 ======
