@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Mengchen Dong"
   avatar           : "images/pupu.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Postdoctoral Research Fellow"
   location         : "Berlin, Germany"
-  employer         :
+  employer         : "Center for Humans and Machines, Max Planck Institute for Human Development"
   pubmed           : ""
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=8QA_jo0AAAAJ"
   email            : "dong@mpib-berlin.mpg.de"
