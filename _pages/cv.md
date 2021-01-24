@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+#Education
 ======
 * B.S. in School of Psychology, South China Normal University, China, June 2013 Excellent graduate honor (Top 1%; postgraduate recommendation)
 * M.S. in Department of Personality and Social Psychology, Faculty of Psychology, Beijing Normal University, China, June 2016
