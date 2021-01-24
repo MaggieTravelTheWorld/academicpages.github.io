@@ -11,11 +11,3 @@ location: "Amsterdam, the Netherlands"
 Supervision of thirteen bachelor theses and three master theses, 2016~2020.
 Teaching assistant of the Psychology of Interpersonal Dynamics (awarded as excellent), 2015.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
